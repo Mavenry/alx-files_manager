@@ -1,4 +1,6 @@
-/*Auth: Mavenry */
+/**
+ * Auth: Mavenry
+ */
 /* eslint-disable import/no-named-as-default */
 import { expect } from 'chai';
 import redisClient from '../../utils/redis';

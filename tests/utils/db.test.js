@@ -1,4 +1,6 @@
-/*Auth: Mavenry */
+/**
+ * Auth: Mavenry
+ */
 /* eslint-disable import/no-named-as-default */
 import dbClient from '../../utils/db';
 
