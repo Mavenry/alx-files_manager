@@ -1,4 +1,3 @@
-/**By Bukola Sunday*/
 import { promisify } from 'util';
 import { createClient } from 'redis';
 
