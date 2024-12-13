@@ -1,4 +1,4 @@
-/*Auth: Mavenry*/
+/* Auth, Mavenry */
 /* eslint-disable no-unused-vars */
 import { Request, Response, NextFunction } from 'express';
 

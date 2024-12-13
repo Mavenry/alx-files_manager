@@ -1,6 +1,4 @@
-/**
- * Auth: Mavenry
- */
+/* Auth, Mavenry */
 import mongodb from 'mongodb';
 // eslint-disable-next-line no-unused-vars
 import Collection from 'mongodb/lib/collection';

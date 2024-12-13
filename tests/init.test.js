@@ -1,4 +1,4 @@
-/*Auth: Mavenry*/
+/* Auth, Mavenry */
 import supertest from 'supertest';
 import chai from 'chai';
 import api from '../server';
