@@ -1,3 +1,4 @@
+/*Auth: Mavenry*/
 module.exports = {
   presets: [
     [

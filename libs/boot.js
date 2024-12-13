@@ -1,3 +1,4 @@
+/*Auth: Mavenry*/
 import envLoader from '../utils/env_loader';
 
 const startServer = (api) => {

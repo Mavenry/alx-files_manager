@@ -1,3 +1,4 @@
+/*Auth: Mavenry*/
 /* eslint-disable no-unused-vars */
 import { Request, Response, NextFunction } from 'express';
 import { getUserFromXToken, getUserFromAuthorization } from '../utils/auth';

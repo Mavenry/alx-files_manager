@@ -1,3 +1,4 @@
+/* Auth: Mavenry*/
 /* eslint-disable import/no-named-as-default */
 import { tmpdir } from 'os';
 import { join as joinPath } from 'path';
