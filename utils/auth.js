@@ -1,4 +1,6 @@
-/*Auth: Mavenry*/
+/**
+ * Auth: Mavenry
+ */
 /* eslint-disable import/no-named-as-default */
 /* eslint-disable no-unused-vars */
 import sha1 from 'sha1';

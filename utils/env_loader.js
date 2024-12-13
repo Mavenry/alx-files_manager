@@ -1,4 +1,6 @@
-/*Auth: Mavenry*/
+/**
+ * Auth: Mavenry
+ */
 import { existsSync, readFileSync } from 'fs';
 
 /**
